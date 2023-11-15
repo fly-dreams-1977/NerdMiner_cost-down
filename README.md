@@ -4,8 +4,11 @@
 
 改使用下面的硬件版子：
 1. 合宙 ESP32-C3 無屏版本
-2. ESP32-S3 N8R2 無屏版本
-3. EPS32-S3 N16R4 無屏版本
+   https://wiki.luatos.com/chips/esp32c3/board.html
+   
+3. ESP32-S3 N8R2 無屏版本
+ 
+5. EPS32-S3 N16R4 無屏版本
 
 
 

@@ -23,6 +23,7 @@
    USDT-Polygon     :  0xfb7e7f833410e5b7709106bcc4ffc5665a520200
    
    USDT-Optimism :  0x8221907b3eac208f28d3ce5ecc17ab9e05eeca39
-   
+
+   BTC-Bitcoin          :  bc1qfgzk6qem3rxu3qaryyqjknwgceh00dsdnznednr2z3uwna55ujqs5pugxp
    
    

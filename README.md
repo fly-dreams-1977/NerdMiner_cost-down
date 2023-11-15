@@ -7,8 +7,28 @@
    https://wiki.luatos.com/chips/esp32c3/board.html
    
 3. ESP32-S3 N8R2 無屏版本
- 
+
 5. EPS32-S3 N16R4 無屏版本
+
+
+快閃記憶體固件
+microMiners Flashtool [推薦]
+刷新韌體的最簡單方法。使用以下 firwmare flash 工具建立您自己的礦工：
+
+下載這個儲存庫
+線上訪問 ESPtool： https: //espressif.github.io/esptool-js/
+bin使用與您的主機板對應的子資料夾之一中的二進位檔案載入韌體。
+插入您的板並從子資料夾（.bin文件）中選擇每個文件。
+更新韌體
+依照相同的刷新步驟更新 NerdMiner 韌體，但僅使用檔案 0x10000_firmware.bin。
+
+建置故障排除
+線上 ESPtool 適用於 chrome、chromium、brave
+ESPtool 建議：使用 115200bps
+建置錯誤 > 如果在韌體下載期間上傳停止，建議以引導模式進入開發板。拔下電纜，按住右下按鈕，然後插入電纜。嘗試程式設計
+在極端情況下，您可以在上傳韌體之前在 ESPtool 上「擦除所有快閃記憶體」以清除所有目前配置。在這之前，已經有嘗試 Wifi 失敗的案例。
+對於 ESP32-WROOM 開發板，可能需​​要將開發板置於啟動模式。按住啟動按鈕，按下重設按鈕，然後編程。
+
 
 
 

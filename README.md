@@ -16,7 +16,9 @@
 
    贊助：
    USDT-TRC20         :  TSGd43Q4TzqxHP4vBbd98ashw1YFdjWXLJ
+   
    USDT-Polygon     :  0xfb7e7f833410e5b7709106bcc4ffc5665a520200
+   
    USDT-Optimism :  0x8221907b3eac208f28d3ce5ecc17ab9e05eeca39
    
    
